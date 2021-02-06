@@ -1,4 +1,4 @@
-list = ["Andrea" ,"Angense"]
+list = ["Andrea","Angense"]
 
 last_person = list.pop()
 print(f"the last person on the list is {last_person.title()}.")
@@ -17,9 +17,6 @@ list.insert(3,'Dom')
 print(list)
 
 list.append('Eva')
-print(list)
-
-del list[4]
 print(list)
 
 
