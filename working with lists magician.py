@@ -1,10 +1,10 @@
 magician = [ 'ben', 'bob', 'dan', 'mark' ]
 for magician in magician:
-    print(f"{magician.title()},that was agood trick!")
+    print(f"{magician.title()}that was agood trick!")
 
 brawler = ['bo']
 for brawler in brawler:
-    print(f"{brawler.title()},shoots explosive arrows")
+    print(f"{brawler.title()}shoots explosive arrows")
 
 brawlers = ['mortis']
 for brawlers in brawlers:
